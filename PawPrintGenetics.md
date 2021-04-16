@@ -4,6 +4,8 @@ title: "Paw Print Genetics Certificates and Reports"
 permalink: /PawPrintGenetics/
 ---
 
+<a href="https://www.pawprintgenetics.com/pedigrees/dogs/details/19881/">Back to Paw Print Pedigrees</a>
+
 ## Paw Print Genetics Certificates and Reports
 
 ### Genetic Health Certificate
