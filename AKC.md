@@ -1,19 +1,13 @@
 ---
 layout: page
-title: "AKC Images"
+title: "AKC Full Registration and Certified Pedigree"
 permalink: /akc/
 ---
 
-## AKC Images
+## AKC Full Registration and Certified Pedigree
 
-Images
-
-![](Lucky Lad Full Registration.PNG){:class="img-fluid rounded pb-215"}
- 
 ![](Lucky Lad Full Registration.PNG)
- 
-![](Coat Color and Trait Certificate - Page 1.png)
-  
-![](Coat Color and Trait Certificate - Page 2.png)
-    
-![](Laboratory Disease Report.pdf)
+
+![](Lucky Lad Certified Pedigree.png)
+
+
