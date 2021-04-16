@@ -12,8 +12,8 @@ Images
  
  ![](Lucky Lad Full Registration.PNG)
  
-  ![](Coat Color and Trait Certificate - Page 1.png)
+ ![](Coat Color and Trait Certificate - Page 1.png)
   
-    ![](Coat Color and Trait Certificate - Page 2.png)
+ ![](Coat Color and Trait Certificate - Page 2.png)
     
-      ![](Laboratory Disease Report.pdf)
+  ![](Laboratory Disease Report.pdf)
