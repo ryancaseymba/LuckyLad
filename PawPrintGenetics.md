@@ -9,7 +9,7 @@ permalink: /PawPrintGenetics/
 ## BetterBred Diversity Testing
 
 ### BetterBred Diversity Testing
-![](Genetic Health Certificate.png)
+![](BetterBred Results 2 _Last 10 Recent - Lucky Only.png)
 
 <a href="www.betterbred.com/profile/?link=12014/">Better Bred Diversity Testing Profile</a>
 
