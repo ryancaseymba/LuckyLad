@@ -16,7 +16,7 @@ permalink: /Pedigree/
 </h3>
 <br />
 
-## AKC Certified Pedigree
+<h2>AKC Certified Pedigree</h2>
 
 <img src="Lucky Lad Certified Pedigree.png">
 
