@@ -3,7 +3,7 @@ layout: page
 title: "BetterBred Diversity & Paw Print Genetics"
 permalink: /PawPrintGenetics/
 ---
-<a href="https://ryancaseymba.github.io/LuckyLad/" target="_blank">Back to Lucky Lad Home Page</a>
+<a href="https://ryancaseymba.github.io/LuckyLad/">Back to Lucky Lad Home Page</a>
 
 
 ## BetterBred Diversity Testing
@@ -11,7 +11,7 @@ permalink: /PawPrintGenetics/
 ### BetterBred Diversity Testing
 ![](BetterBred Results 2 _Last 10 Recent - Lucky Only.png)
 
-<a href="https://www.betterbred.com/profile/?link=12014">Better Bred Diversity Testing Profile</a>
+<a href="https://www.betterbred.com/profile/?link=12014" target="_blank">Better Bred Diversity Testing Profile</a>
 
 ## Paw Print Genetics Certificates and Reports
 
