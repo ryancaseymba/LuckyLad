@@ -22,3 +22,6 @@ permalink: /Pedigree/
 ![](Lucky Lad Certified Pedigree.png)
 
 
+</div>
+</body>
+</html>
