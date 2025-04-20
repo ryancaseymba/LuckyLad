@@ -11,4 +11,4 @@ permalink: /Registration/
 
 ## AKC Full Registration
 
-![](Lucky Lad Full Registration.PNG)
+![](Lucky Lad Full Registration.png)
