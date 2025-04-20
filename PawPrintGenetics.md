@@ -7,9 +7,6 @@ permalink: /PawPrintGenetics/
 <br />
 <a href="https://ryancaseymba.github.io/LuckyLad/">Back to Lucky Lad Home Page</a>
 
-
-## BetterBred Diversity Testing
-
 ### BetterBred Diversity Testing
 ![](BetterBred Results 2 _Last 10 Recent - Lucky Only.png)
 
