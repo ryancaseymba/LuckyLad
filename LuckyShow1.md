@@ -3,7 +3,8 @@ layout: page
 title: "Lucky Show 1"
 permalink: /LuckyShow1/
 ---
-
+<br />
+<br />
 <a href="https://ryancaseymba.github.io/LuckyLad/">Back to Lucky Lad Home Page</a>
 
 ## Lucky Dog Show
