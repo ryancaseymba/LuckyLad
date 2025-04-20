@@ -4,7 +4,7 @@ title: "AKC Full Registration"
 permalink: /Registration/
 ---
 
-<a href="https://www.pawprintgenetics.com/pedigrees/dogs/details/19881/">Back to Paw Print Pedigrees</a>
+<a href="https://ryancaseymba.github.io/LuckyLad/">Back to Lucky Lad Home Page</a>
 
 ## AKC Full Registration
 
