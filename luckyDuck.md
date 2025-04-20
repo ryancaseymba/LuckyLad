@@ -4,9 +4,9 @@ title: "Lucky with Duck"
 permalink: /LuckyDuck/
 ---
 
-<h3>
+<h4>
 <a href="https://ryancaseymba.github.io/LuckyLad/">Back to Lucky Lad Home Page</a>
-</h3>
+</h4>
 
 ## Lucky with a Duck
 
