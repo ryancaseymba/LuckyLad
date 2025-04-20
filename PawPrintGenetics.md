@@ -3,7 +3,7 @@ layout: page
 title: "BetterBred Diversity & Paw Print Genetics"
 permalink: /PawPrintGenetics/
 ---
-<a href="https://www.pawprintgenetics.com/pedigrees/dogs/details/19881/">Back to Paw Print Pedigrees</a>
+<a href="https://ryancaseymba.github.io/LuckyLad/">Back to Lucky Lad Home Page</a>
 
 
 ## BetterBred Diversity Testing
