@@ -14,7 +14,7 @@ permalink: /PawPrintGenetics/
 
 <a href="https://www.betterbred.com/profile/?link=12014" target="_blank">Better Bred Diversity Testing Profile</a>
 
-## Paw Print Genetics Certificates and Reports
+## Paw Print Genetics
 
 ### Genetic Health Certificate
 ![](Genetic Health Certificate.png)
